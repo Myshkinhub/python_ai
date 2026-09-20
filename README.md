@@ -1,2 +1,2 @@
-# code_repo
-my test repo.
+# python_base
+python学习基础

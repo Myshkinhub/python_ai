@@ -1,2 +1,2 @@
-# python_base
-python学习基础
+# python_ai
+python ai大模型学习基础
